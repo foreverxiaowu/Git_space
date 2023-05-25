@@ -20,4 +20,5 @@ I love WXY!
 I love WXY!master -test
 I love WXY!
 I love WXY!
+I love WXY!hot-fix -test`
 fix -1
